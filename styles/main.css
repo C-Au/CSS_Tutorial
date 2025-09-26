@@ -23,13 +23,15 @@ h2 {
 .small-text {
   color: darkblue;
   font-size: 0.8rem;
+  text-align: left;
   font-family: Arial;
 }
 
 /* This styles the paragraph text with the class "medium-text */
 .medium-text {
   color: black;
-  font-size: 1.0rem;
+  font-size: 1rem;
+  text-align: left;
   font-family: Arial;
 }
 
@@ -37,5 +39,6 @@ h2 {
 .large-text {
   color: rgb(149, 1, 127);
   font-size: 1.4rem;
+  text-align: left;
   font-family: Arial;
 }
