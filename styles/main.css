@@ -1,0 +1,16 @@
+/* This changes the background color of the page */
+body {
+  background-color: lightyellow;
+}
+
+/* This styles the main heading */
+h1 {
+  color: darkblue;
+  font-size: 2rem;
+}
+
+/* This styles the paragraph text */
+p {
+  color: darkgreen;
+  font-size: 1.2rem;
+}
