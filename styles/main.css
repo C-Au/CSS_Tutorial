@@ -1,44 +1,20 @@
-/* This changes the background color of the page */
-body {
-  background-color: rgb(211, 211, 211);
+.solid {
+  border: solid 2px black;
+}
+.dashed {
+  border: dashed 2px black;
+}
+.dotted {
+  border: dotted 2px black;
+}
+.double {
+  border: double 4px black;
+}
+.none {
+  border: none;
 }
 
-/* This styles the main heading */
-h1 {
-  color: rgb(68, 106, 222);
-  font-size: 2.5rem;
-  text-align: center;
-  font-family: Arial;
-}
-
-/* This styles the sub headings */
-h2 {
-  color: darkgreen;
-  font-size: 2rem;
-  text-align: left;
-  font-family: Arial;
-}
-
-/* This styles the paragraph text with the class "small-text */
-.small-text {
-  color: darkblue;
-  font-size: 0.8rem;
-  text-align: left;
-  font-family: Arial;
-}
-
-/* This styles the paragraph text with the class "medium-text */
-.medium-text {
-  color: black;
-  font-size: 1rem;
-  text-align: left;
-  font-family: Arial;
-}
-
-/* This styles the paragraph text with the class "large-text */
-.large-text {
-  color: rgb(149, 1, 127);
-  font-size: 1.4rem;
-  text-align: left;
-  font-family: Arial;
+p {
+  border-radius: 10px;
+  padding: 0.5rem;
 }
