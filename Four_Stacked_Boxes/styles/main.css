@@ -1,0 +1,32 @@
+.FirstBox {
+  border: solid 2px black;
+  width: 300px;
+  height: 100px;
+  background-color: yellow;
+}
+.SecondBox {
+  border: solid 2px black;
+  width: 200px;
+  height: 150px;
+  background-color: red;
+}
+.ThirdBox {
+  border: solid 2px black;
+  width: 250px;
+  height: 150px;
+  background-color: green;
+}
+.FourthBox {
+  border: solid 2px black;
+  width: 220px;
+  height: 220px;
+  background-color: blue;
+  border-radius: 20px;
+}
+.none {
+  border: none;
+}
+
+p {
+  padding: 15px;
+}
