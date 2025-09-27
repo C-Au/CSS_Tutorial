@@ -3,30 +3,30 @@
   width: 300px;
   height: 100px;
   background-color: yellow;
-  margin: 15px;
 }
+
 .SecondBox {
   border: solid 2px black;
   width: 200px;
   height: 150px;
   background-color: red;
-  margin: 15px;
 }
+
 .ThirdBox {
   border: solid 2px black;
   width: 250px;
   height: 150px;
   background-color: green;
-  margin: 15px;
 }
+
 .FourthBox {
   border: solid 2px black;
   width: 220px;
   height: 220px;
   background-color: blue;
-  margin: 15px;
   border-radius: 20px;
 }
-.none {
-  border: none;
+
+div {
+  margin: 15px;
 }
